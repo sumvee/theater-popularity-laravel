@@ -39,6 +39,10 @@ const showingNavigationDropdown = ref(false);
                                 >
                                     Dashboard
                                 </NavLink>
+
+                                <NavLink :href="route('theater.index')" :active="route().current('theater.index')">
+                                    Popular Theater
+                                </NavLink>
                             </div>
                         </div>
 
