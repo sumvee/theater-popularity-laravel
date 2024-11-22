@@ -1,0 +1,13 @@
+users
+sessions
+password_reset_tokens
+migrations
+jobs
+job_batches
+failed_jobs
+cache_locks
+cache
+tickets
+show_times
+theaters
+movies

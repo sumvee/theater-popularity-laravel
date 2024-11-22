@@ -54,6 +54,9 @@
                 - It will display popular theater for that date (only one theater will be displayed)
                 - If no theater is available, it will display a list of available dates
 
+## Schema
+ - Point browser to /schema/
+
 ## License
 
 The is an open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
